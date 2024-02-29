@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.28f1 (f5400f52e03f) revision 16072719'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'en' Physical Memory: 7896 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.28f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/My Foocking Piece Of Shit Stoff/New folder/fight
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65060
+Successfully changed project path to: D:/My Foocking Piece Of Shit Stoff/New folder/fight
+D:/My Foocking Piece Of Shit Stoff/New folder/fight
+Using Asset Import Pipeline V2.
